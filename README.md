@@ -7,9 +7,9 @@ Graphic Designer and Web Developer
 I've been learning to code for 3 years, After switching careers, I started with HTML, CSS and java, but have really found a passion for FiveM Development.
 
 * 🌍  I'm based in Mumbai
-* 🖥️  See my portfolio at [My Website](http://www.merpindia.in/)
+* 🖥️  See my portfolio at [My Website](https://marathivikya.github.io/)
 * ✉️  You can contact me at [workforvikya@gmail.com](mailto:workforvikya@gmail.com)
-* 🚀  I'm currently working on [Maratha Empire Roleplay](http://discord.link/merpindia)
+* 🚀  I'm currently working on [Maratha Empire Roleplay](https://discord.gg/zVAm6udWmT)
 * 🧠  I'm learning Lua, Java, Python
 * 🤝  I'm open to collaborating on Fivem Scripts
 * ⚡  I am Youtuber, Gamer, Streamer
